@@ -1,5 +1,5 @@
 {
-  "status": "running",
+  "main": false,
   "message": "",
   "min_build": "0.0.1",
   "latest_build": "0.0.2"
