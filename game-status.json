@@ -1,5 +1,5 @@
 {
-  "main": false,
+  "main": true,
   "message": "",
   "min_build": "10",
   "latest_build": "12"
