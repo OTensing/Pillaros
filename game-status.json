@@ -1,6 +1,6 @@
 {
   "main": false,
   "message": "",
-  "min_build": "0.0.1",
-  "latest_build": "0.0.2"
+  "min_build": "10",
+  "latest_build": "12"
 }
